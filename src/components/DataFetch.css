@@ -1,0 +1,11 @@
+#heading{
+    background-color: rgb(33, 33, 33);
+    color: white;
+}
+#table{
+    border: 1px solid white;
+    border-radius: 50px;
+}
+thead{
+    border-bottom: 1px solid white;
+}
